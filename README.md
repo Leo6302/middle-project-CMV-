@@ -10,7 +10,6 @@ pip install numpy scipy matplotlib torch pandas
 ## 실행
 
 ```bash
-cd "C:\Users\leosc\OneDrive\바탕 화면\ai와 머신러닝\leo"
 python -m cmv.main
 ```
 
